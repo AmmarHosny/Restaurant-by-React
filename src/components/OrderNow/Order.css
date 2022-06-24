@@ -1,0 +1,48 @@
+
+.validetion::before{
+    content: "";
+    background: #0000005e;
+    width: 1000%;
+    height: 1000%;
+    position: absolute;
+    top: 0;
+    left: -249px;
+    z-index: -1;
+}
+.validetion{
+    width: 600px;
+    padding: 50px;
+    background: brown;
+    position: fixed;
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+input{
+    padding: 10px;
+    border: none;
+    outline: none;
+    margin-top: 15px !important;
+    border: 10px solid #eee;
+}
+.submit{
+        display: block;
+        margin: auto;
+        border: 2px solid #a82d49;
+        padding: 10px 20px;
+        color: white;
+        background: #a82d49;
+        transition: 0.3s;
+}
+.submit:hover{
+    background-color: white;
+    color:#a82d49 ;
+    border: 2px solid #a82d49;
+}
+.clsse {
+    border: 10px;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+}

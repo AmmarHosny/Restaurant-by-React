@@ -1,0 +1,34 @@
+
+.section1 h2{
+    font-size: 40px;
+    color: #a82d49;
+}
+.section1 p.one{
+    margin-top: 20px;
+    line-height: 1.6;
+    font-size: 21px;
+    color: #866d6d;
+}
+.rate p{
+    line-height: 1.6;
+    font-size: 21px;
+    color: #cb2020;
+    margin-bottom: 10px;
+}
+.section1 button{
+    border: 2px solid white;
+    padding: 10px 20px;
+    color: white;
+    background: #a82d49;
+    margin-right: 10px;
+    transition: 0.3s;
+    margin-top: 20px;
+}
+.section1 button:hover{
+    background-color: white;
+    color:#a82d49 ;
+    border: 2px solid #a82d49;
+}
+.section1 img{
+    width:-webkit-fill-available;
+}

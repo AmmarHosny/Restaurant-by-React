@@ -1,0 +1,32 @@
+.video{
+    background: url(http://demo.tutsflow.com/foodera/images/parallax/1.jpg) no-repeat ;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+.video .text-video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: inherit;
+    text-align: center;
+}
+.video .text-video h2{
+    font-size: 40px;
+    color: brown;
+}
+.video .text-video p{
+    font-size: 20px;
+    color: #745050;
+}
+.video button{
+    margin-top: 40px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.video button:hover{
+    color: brown;
+}
