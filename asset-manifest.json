@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/Restaurant-by-React/static/css/main.2efc65d3.css",
-    "main.js": "/Restaurant-by-React/static/js/main.64b7cb2b.js",
+    "main.css": "/Restaurant-by-React/static/css/main.ccd26eb6.css",
+    "main.js": "/Restaurant-by-React/static/js/main.95a9a93c.js",
     "static/media/2.png": "/Restaurant-by-React/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/3.jpg": "/Restaurant-by-React/static/media/3.12c392d279429f82935c.jpg",
+    "static/media/1.png": "/Restaurant-by-React/static/media/1.91adf8dc0779a423e014.png",
     "static/media/explore3.jpg": "/Restaurant-by-React/static/media/explore3.0df4d0d0dda2d436bffc.jpg",
+    "static/media/2.jpg": "/Restaurant-by-React/static/media/2.580213ab4b0ed0a48210.jpg",
     "static/media/slider1.jpg": "/Restaurant-by-React/static/media/slider1.960ff282036e3c4e63eb.jpg",
+    "static/media/1.jpg": "/Restaurant-by-React/static/media/1.8dac9ee9eb3e67760871.jpg",
     "static/media/slider2.jpg": "/Restaurant-by-React/static/media/slider2.f6e01ff2a6ae714f244b.jpg",
     "static/media/explore1.jpg": "/Restaurant-by-React/static/media/explore1.1defe43a880022701c8d.jpg",
     "static/media/explore2.jpg": "/Restaurant-by-React/static/media/explore2.a567a9db1482b99c0fab.jpg",
     "index.html": "/Restaurant-by-React/index.html",
-    "main.2efc65d3.css.map": "/Restaurant-by-React/static/css/main.2efc65d3.css.map",
-    "main.64b7cb2b.js.map": "/Restaurant-by-React/static/js/main.64b7cb2b.js.map"
+    "main.ccd26eb6.css.map": "/Restaurant-by-React/static/css/main.ccd26eb6.css.map",
+    "main.95a9a93c.js.map": "/Restaurant-by-React/static/js/main.95a9a93c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2efc65d3.css",
-    "static/js/main.64b7cb2b.js"
+    "static/css/main.ccd26eb6.css",
+    "static/js/main.95a9a93c.js"
   ]
 }
