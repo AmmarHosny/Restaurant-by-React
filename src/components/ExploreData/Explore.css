@@ -1,0 +1,13 @@
+.explore h2{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: brown;
+}
+.explore p{
+    text-align: center;
+    width: 57%;
+    font-size: 18px;
+    margin: auto;
+    color:rgb(152, 128, 128);
+}

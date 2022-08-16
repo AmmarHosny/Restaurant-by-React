@@ -1,0 +1,26 @@
+.parallax{
+    background-image: url(http://demo.tutsflow.com/foodera/images/parallax/2.jpg);
+    background-size: cover;
+    height: 208px;
+    padding: 60px 0;
+}
+.parallax .row{
+    align-items: center;
+    margin-top: 30px;
+}
+.parallax .row h2{
+    color: white;
+}
+.parallax .row button{
+    border: 2px solid #a82d49;
+    padding: 10px 20px;
+    color: white;
+    background: #a82d49;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+.parallax .row button:hover{
+    background-color: transparent;
+    color:#a82d49 ;
+    border: 2px solid #a82d49;
+}

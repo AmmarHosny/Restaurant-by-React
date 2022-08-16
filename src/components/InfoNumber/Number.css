@@ -1,0 +1,36 @@
+.main-number{
+    padding: 30px 0px;
+    background: #a82d49;
+}
+.main-number .row{
+    text-align: center;
+    color: white;
+    height: auto;
+}
+section img{
+    width: -webkit-fill-available;
+    border-radius: 6px;
+}
+section h2{
+    line-height: 1.6;
+    color: #a82d49;
+}
+section p{
+    color: #a89090;
+    line-height: 2;
+    font-size: 18px;
+    margin-bottom: 70px;
+}
+section button{
+    border: 2px solid white;
+    padding: 10px 20px;
+    color: white;
+    background: #a82d49;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+section button:hover{
+    background-color: white;
+    color:#a82d49 ;
+    border: 2px solid #a82d49;
+}

@@ -1,0 +1,24 @@
+.subscribe .container h2{
+    font-size: 40px;
+    padding: 30px 0;
+    color: brown;
+}
+.subscribe form input:first-child{
+    width: 300px;
+    margin-right: 35px;
+    padding: 12px;
+    border: 1px solid #9a9898;
+}
+.subscribe form input:last-child{
+    border: 2px solid #a82d49;
+    padding: 10px 20px;
+    color: white;
+    background: #a82d49;
+    margin-right: 10px;
+    transition: 0.3s;
+}
+.subscribe form input:last-child:hover{
+    background-color: white;
+    color:#a82d49 ;
+    border: 2px solid #a82d49;
+}
